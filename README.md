@@ -1,2 +1,2 @@
 # git_learn
-learning a git
+learning a git nicely ok
